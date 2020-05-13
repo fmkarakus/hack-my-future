@@ -18,8 +18,8 @@
 ## All of My Projects
 
 ### Working with Code
-* [Markdown Home Page](https://badgerbadgerbadger.com)
-* [My bio on the class repo](https://badgerbadgerbadger.com)
-* [Hack My Future](./README.md)
+* [Markdown Home Page](https://fmkarakus.github.io/)
+* [My bio on the class repo](https://github.com/fmkarakus/class-9-10/blob/master/student-bios/fmkarakus.md)
+* [Hack My Future](https://github.com/users/fmkarakus/projects/1)
 
 ### Incremental Development
